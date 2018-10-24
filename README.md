@@ -1,2 +1,2 @@
-# Trabalho-G2---Laborat-rio-de-programa-o-
+# Trabalho-G2---Laboratorio-de-programacao
 Gianlucca Acordi Severo e Kalvin Azevedo Lima
